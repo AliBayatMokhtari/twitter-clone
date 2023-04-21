@@ -1,0 +1,14 @@
+{
+  "workbench.fontAliasing": "default",
+  "editor.fontSize": 13,
+  "window.zoomLevel": 0,
+  "editor.fontFamily": "liga menlo",
+  "workbench.colorTheme": "Default Dark+ Experimental",
+  "editor.fontLigatures": false,
+  "terminal.integrated.fontFamily": "liga menlo",
+  "terminal.integrated.fontWeight": "normal",
+  "terminal.integrated.fontWeightBold": "normal",
+  "terminal.integrated.fontSize": 14,
+  "editor.lineHeight": 1.25,
+  "editor.renderWhitespace": "none"
+}
